@@ -1,0 +1,34 @@
+.ALL_Import{
+  animation: fadeIn 0.9s;
+}
+#nav{
+  margin: 2px;
+  background: linear-gradient(to right, #1A5B5B, #297F7F, #fff,#fff);
+  color: white;
+  border-radius: 50px;
+  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.5) ;
+
+}
+.import_btn{
+  background: rgba(0, 81, 101, 0.705);
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  padding-left: 30%;
+  padding-right: 30%;
+  transition: 0.5s;
+
+  border-radius: 50px;
+  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.07);
+
+}
+.import_btn:hover{
+  background: rgba(0, 80, 101, 1);
+  transition: 0.5s;
+  cursor: pointer;
+  color: white;
+}
+  #CloudUpload{
+    color: #3A96E7;
+}

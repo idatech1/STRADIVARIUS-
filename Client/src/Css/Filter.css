@@ -1,0 +1,21 @@
+#rediusboxes {
+    border-top-right-radius: 50px;  /* Arrondi en haut à droite */
+    border-bottom-right-radius: 50px;  /* Arrondi en bas à droite */
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.calendrier_text {
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 1px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Ajoutez ceci à votre fichier CSS */
+.scroll-smooth {
+    scroll-behavior: smooth;
+  }
+  
+  /* Masquer la scrollbar */
+  .max-w-md::-webkit-scrollbar {
+    display: none;
+  }

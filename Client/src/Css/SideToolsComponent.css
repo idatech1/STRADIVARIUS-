@@ -1,0 +1,10 @@
+#btn_logout{
+    color: red;
+
+}
+#btn_logout:hover{
+    background: red;
+    transition: 0.5s;
+    cursor: pointer;
+    color: white;
+}

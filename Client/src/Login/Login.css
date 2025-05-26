@@ -1,0 +1,127 @@
+#All_Login{
+  animation: fadeIn 0.9s;
+  color: white;
+
+}
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(to right, #0f2027, #297F7F, #0f2027);
+}
+
+.login-card {
+  width: 100%;
+  max-width: 800px;
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.146);
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.579)
+}
+
+.login-logo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+
+.login-logo img {
+  max-width: 250px;
+  height: auto;
+}
+
+h2{
+  text-align: center;
+  margin-bottom: 12px;
+  font-size: 35px;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 50px;
+  font-size: 1rem;
+}
+
+input:focus {
+  outline: none;
+  border-color: blue;
+  box-shadow: 0 0 0 2px rgba(10, 135, 126, 0.2);
+}
+
+.login-button {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: rgba(0, 81, 101, 0.705);
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-size:18px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  box-shadow: 1px 4px 4px rgba(235, 234, 234, 0.347);
+}
+
+.login-button:hover {
+  background-color: rgba(0, 80, 101, 1);
+}
+
+.login-button:disabled {
+  background-color: #82c0bc;
+  cursor: not-allowed;
+}
+
+.error-message {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  background: red;
+font-size: 18px;
+  border-radius: 4px;
+  text-align: center;
+}
+.custom-swal-popup{
+  font-size: 20px;
+  color: white;
+}
+.password-group {
+  position: relative;
+}
+
+.password-input-container {
+  position: relative;
+}
+
+.password-toggle {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: 0.2s;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.711);
+  padding: 5px;
+}
+
+.password-toggle:hover {
+  color: white;
+}
+
+.password-toggle:focus {
+  outline: none;
+}

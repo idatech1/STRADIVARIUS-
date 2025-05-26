@@ -1,0 +1,268 @@
+[{
+  "_id": {
+    "$oid": "6802d09f4dae49531648ef0a"
+  },
+  "Date": {
+    "$date": "2025-04-19T00:00:00.000Z"
+  },
+  "Id_Store": 2756,
+  "Id_Department_Type": 1,
+  "Destination_Id_Store": 14093,
+  "Destination_Id_Departament_Type": 1,
+  "Id_Product": 0,
+  "Id_Movement_Type": "0",
+  "Id_Movement_Subtype": 259,
+  "Document_Number": 9214080,
+  "Document_Date": {
+    "$date": "2024-12-11T00:00:00.000Z"
+  },
+  "Sequence": 9214080,
+  "Void_Sequence": 0,
+  "MOVEMENTS": [
+    {
+      "Model": 5020,
+      "Quality": 432,
+      "Colour": 150,
+      "Size": 2,
+      "Units": 1,
+      "Price": 249,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "680384db311642f9b24e8b07"
+      }
+    },
+    {
+      "Model": 6519,
+      "Quality": 496,
+      "Colour": 433,
+      "Size": 2,
+      "Units": 1,
+      "Price": 199,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "680384db311642f9b24e8b08"
+      }
+    },
+    {
+      "Model": 6519,
+      "Quality": 496,
+      "Colour": 3,
+      "Size": 2,
+      "Units": 1,
+      "Price": 199,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "680384db311642f9b24e8b09"
+      }
+    },
+    {
+      "Model": 6519,
+      "Quality": 496,
+      "Colour": 1,
+      "Size": 2,
+      "Units": 1,
+      "Price": 199,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "680384db311642f9b24e8b0a"
+      }
+    },
+    {
+      "Model": 5020,
+      "Quality": 432,
+      "Colour": 250,
+      "Size": 2,
+      "Units": 1,
+      "Price": 249,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "680384db311642f9b24e8b0b"
+      }
+    },
+    {
+      "Model": 5020,
+      "Quality": 432,
+      "Colour": 4,
+      "Size": 2,
+      "Units": 1,
+      "Price": 249,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "680384db311642f9b24e8b0c"
+      }
+    }
+  ],
+  "from": "Stradi Casablanca",
+  "to": "Stradi Tanger",
+  "status": "Confirmé",
+  "type": "green",
+  "showBoxIcon": false,
+  "quantity": 6,
+  "description": "Transfert généré automatiquement",
+  "createdAt": {
+    "$date": "2025-04-18T22:22:23.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-19T11:12:52.970Z"
+  },
+  "__v": 0,
+  "Flag": 0
+},
+{
+  "_id": {
+    "$oid": "6802d09f4dae49531648ef1a"
+  },
+  "Date": {
+    "$date": "2025-04-19T00:00:00.000Z"
+  },
+  "Id_Store": 2756,
+  "Id_Department_Type": 1,
+  "Destination_Id_Store": 14093,
+  "Destination_Id_Departament_Type": 1,
+  "Id_Product": 0,
+  "Id_Movement_Type": "0",
+  "Id_Movement_Subtype": 259,
+  "Document_Number": 92140890,
+  "Document_Date": {
+    "$date": "2024-12-11T00:00:00.000Z"
+  },
+  "Sequence": 9214080,
+  "Void_Sequence": 0,
+  "MOVEMENTS": [
+    {
+      "Model": 5020,
+      "Quality": 432,
+      "Colour": 150,
+      "Size": 2,
+      "Units": 1,
+      "Price": 249,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "6803860e311642f9b24e8c4b"
+      }
+    },
+    {
+      "Model": 6519,
+      "Quality": 496,
+      "Colour": 433,
+      "Size": 2,
+      "Units": 1,
+      "Price": 199,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "6803860e311642f9b24e8c4c"
+      }
+    },
+    {
+      "Model": 6519,
+      "Quality": 496,
+      "Colour": 3,
+      "Size": 2,
+      "Units": 1,
+      "Price": 199,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "6803860e311642f9b24e8c4d"
+      }
+    },
+    {
+      "Model": 6519,
+      "Quality": 496,
+      "Colour": 1,
+      "Size": 2,
+      "Units": 1,
+      "Price": 199,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "6803860e311642f9b24e8c4e"
+      }
+    },
+    {
+      "Model": 5020,
+      "Quality": 432,
+      "Colour": 250,
+      "Size": 2,
+      "Units": 1,
+      "Price": 249,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "6803860e311642f9b24e8c4f"
+      }
+    },
+    {
+      "Model": 5020,
+      "Quality": 432,
+      "Colour": 4,
+      "Size": 2,
+      "Units": 1,
+      "Price": 249,
+      "Year": 2024,
+      "Campaign": 2,
+      "Period": 1,
+      "Information": null,
+      "Box": null,
+      "_id": {
+        "$oid": "6803860e311642f9b24e8c50"
+      }
+    }
+  ],
+  "from": "Stradi Casablanca",
+  "to": "Stradi Tanger",
+  "status": "En cours",
+  "type": "blue",
+  "showBoxIcon": false,
+  "quantity": 6,
+  "description": "Transfert généré automatiquement",
+  "createdAt": {
+    "$date": "2025-04-18T22:22:23.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-19T11:23:22.992Z"
+  },
+  "__v": 0,
+  "Flag": 0
+}]

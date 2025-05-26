@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "67ee781dc4c16f353ef66661"
+  },
+  "nom": "admin",
+  "prenom": "admin",
+  "matricule": "EMP001",
+  "username": "stradi",
+  "password": "$2b$10$hkkYgm2j9YIBTymTYZz/MeFcshXT9fPc/a3TdO8lLe5zlRdTYS/.e",
+  "role": "Admin",
+  "createdAt": {
+    "$date": "2025-04-03T11:59:25.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f5eef5ba3953a2c545accc"
+  },
+  "nom": "ID&A TECH",
+  "prenom": ".",
+  "matricule": "EMP002",
+  "username": "ID&A TECH",
+  "password": "$2b$10$X05OzmG7LLiQyLJoP6weP.3hS7B1mWV.PwCfZV82fzWyxvkXlRQ92",
+  "role": "User",
+  "createdAt": {
+    "$date": "2025-04-09T03:52:21.287Z"
+  },
+  "__v": 0
+}]
